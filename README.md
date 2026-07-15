@@ -75,7 +75,11 @@ Start with the first one. The others make more sense after the command injection
 
 ## Disclosure status
 
-Work in progress, to be continued.
+| CVE ID | Description | Severity | CVSS Score |
+|---|---|---|---|
+| [CVE-2026-58452](https://www.cve.org/CVERecord?id=CVE-2026-58452) | OS Command Injection via SetMAC Endpoint | High | 8.8 |
+| [CVE-2026-58453](https://www.cve.org/CVERecord?id=CVE-2026-58453) | Hard-coded Credentials via anyka_ipc | Critical | 9.8 |
+| [CVE-2026-58454](https://www.cve.org/CVERecord?id=CVE-2026-58454) | RCE via /Anyka/config Endpoint | High | 7.7 |
 
 ## Disclaimer / Ethics
 
